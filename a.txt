@@ -2,3 +2,5 @@ prvy
 
 
 druhy
+
+toto uz bude nahraty na server
