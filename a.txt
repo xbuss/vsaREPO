@@ -6,3 +6,5 @@ druhy
 toto uz bude nahraty na server
 
 toto som pridal v browseri
+
+toto tiez
